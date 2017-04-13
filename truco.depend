@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1491486345 source:c:\users\ianick\desktop\truco\main.c
+	"main.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1491179715 c:\users\ianick\desktop\truco\main.h
+	<stdio.h>
+	<stdlib.h>
+
